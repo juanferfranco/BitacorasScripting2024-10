@@ -1,2 +1,3 @@
-# BitacorasScripting2024-10
-Repositorio para las bitácoras de los estudiantes del curso de Scripting de 2024-10
+# Bitacoras para el curso Scripting 2024-10
+
+Deja este espacio libre para uso del profesor
